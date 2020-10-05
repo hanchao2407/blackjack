@@ -1,2 +1,2 @@
-# blackjack
+# Blackjack
 basic textbased blackjack
